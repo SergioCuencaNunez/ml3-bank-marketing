@@ -1,2 +1,2 @@
-# ml3-project1
-PCA &amp; Clustering
+# MLIII. Project I
+PCA & Clustering
